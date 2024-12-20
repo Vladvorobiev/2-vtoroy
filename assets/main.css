@@ -1,0 +1,16 @@
+h1 {
+    font-size: 15px; color: red;
+}
+
+body {
+    background-color: darkolivegreen;
+}
+.bluearchive{
+    color: rgb(255, 230, 0); font-size: 20px; text-decoration: underline;
+}
+.justmonika{
+    color:rgb(0, 255, 149); font-size:large; text-decoration:wavy
+}
+.DDLC {
+    border: 5px solid blue ; padding: 20px; margin: 50px
+}
